@@ -7,6 +7,9 @@ Albumentations link:
 documents of Albumentations library link:
 - https://albumentations.ai/docs
 
+#### Output of Transfomation is:
+<img src="./fig_out.png" width=80% height=auto>
+
 #### Transforms were used in this project:
 -  GaussianBlur
 - Flip
@@ -15,6 +18,3 @@ documents of Albumentations library link:
 - RandomShadow
 - Sharpen
 - Rotate
-
-#### Output of Transfomation is:
-<a href="fig_out" width=100% height=auto>
